@@ -30,7 +30,7 @@ This organization currently has [XX public repositories] and [YY private reposit
 
 <img src="https://example.com/wordpress-logo.png" alt="WordPress Logo" height="50">
 
-<img src="https://example.com/unity-logo.png" alt="Unity 3D Logo" height="50">
+<img src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg" alt="Unity 3D Logo" height="50">
 
 <img src="https://example.com/js-logo.png" alt="Javascript Logo" height="50">
 
