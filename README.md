@@ -26,7 +26,7 @@ This organization currently has [XX public repositories] and [YY private reposit
 
 <img src="https://example.com/artslabcreatives-logo.png" alt="Artslab Creatives Logo" height="50">
 
-<img src="https://example.com/laravel-logo.png" alt="Laravel Logo" height="50">
+<img src="https://laravel.com/img/logotype.min.svg" alt="Laravel Logo" height="50">
 
 <img src="https://example.com/wordpress-logo.png" alt="WordPress Logo" height="50">
 
